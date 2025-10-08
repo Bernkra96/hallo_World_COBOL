@@ -3,7 +3,7 @@
        environment division.
        data division.
        procedure division.
-           display "Hello Wolrd"
+           display "Hello World"
            stop run.
             
 
